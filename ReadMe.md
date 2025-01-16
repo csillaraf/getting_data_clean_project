@@ -18,7 +18,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 <h2>The decription of the transformations in run_analysis.R </h2>
 
 <br>
-<h3>1. Loaing and merging the data </h3>
+<h3>1. Loading and merging the data </h3>
 
 <p>
 Our original data are in two datasets: the training data and the test data. In both cases, tha main data set contains only the meauserements. The subject and the activity are in different tables. Our first step is to load the data into R. 
